@@ -1,6 +1,6 @@
 # simapresapp
 
-A new Flutter project.
+Masih on going. gausah kepo.
 
 ## Getting Started
 
